@@ -1,6 +1,7 @@
 # mimate-api
 
 #**Mimate** E-commerce Web App :wave:
+
 ¡Bienvenido a la aplicación web de Mates E-commerce! Esta plataforma está diseñada para ofrecerte una experiencia única al adquirir productos de alta calidad para disfrutar de tus mates favoritos. 🧉
 
 ##Tecnologías Utilizadas
